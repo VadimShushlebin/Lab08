@@ -36,9 +36,9 @@ cos(x) + cos(x^2) + cos(x^3) + ... + cos(x^n)
 
 ### Блок-схема
 
-<img width="338" height="513" alt="Block-chema3" src="https://github.com/user-attachments/assets/fccbbd32-59f4-483a-88ff-f9320f3b4e85" />
+<img width="489" height="741" alt="Block-chema8" src="https://github.com/user-attachments/assets/8ba5ec23-c4b2-4710-bb1e-8551413a62b1" />
 
-https://github.com/VadimShushlebin/lab03/blob/master/Block-chema3.png
+https://github.com/VadimShushlebin/Lab08/blob/master/Block-chema8.png
 
 ## 2. Реализация программы
 
@@ -84,6 +84,7 @@ int main() {
 ## 3. Результаты работы программы
 
 Введите натуральное n: 5
+
 Введите действительное x: 1.5
 
 Итоговая сумма = 2,701512
