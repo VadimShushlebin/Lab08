@@ -9,6 +9,7 @@
 #include <math.h>
 
 int main() {
+	// n = 3, x = 2; cos(2) + cos(2^2) + cos(2^3) = cos(2) + cos(4) + cos(8) = -1,21520
 	setlocale(LC_ALL, "RUS");
 	int n;
 	double x;
