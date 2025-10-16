@@ -54,6 +54,8 @@ https://github.com/VadimShushlebin/Lab08/blob/master/Block-chema8.png
 
 int main() {
 
+	// n = 3, x = 2; cos(2) + cos(2^2) + cos(2^3) = cos(2) + cos(4) + cos(8) = -1,21520
+	
     setlocale(LC_ALL, "RUS");
   
 	int n;
