@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_DEPRECATE
+#define _CRT_SECURE_NO_DEPRECATE
 
 #include <stdio.h>
 
@@ -13,7 +13,7 @@ int main() {
 	setlocale(LC_ALL, "RUS");
 	int n;
 	double x;
-	double res = 0,0;
+	double res = 0;
 	printf("Введите натуральное n: ");
 	scanf("%d", &n);
 
