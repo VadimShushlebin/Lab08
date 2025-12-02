@@ -19,9 +19,10 @@ int main() {
 
 	printf("Введите действительное x: ");
 	scanf("%lf", &x);
+	double power = 1;
 	for (int i = 1; i <= n; i++)
 	{
-		double power = pow(x, i);
+		power *= x;
 		double func = cos(power);
 		res += func;
 
